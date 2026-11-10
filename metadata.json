@@ -1,0 +1,6 @@
+{
+  "name": "BU International Admissions Dashboard 2570",
+  "description": "ระบบวิเคราะห์รายงานการสมัครหลักสูตร International มหาวิทยาลัยกรุงเทพ ปีการศึกษา 2570 พร้อมวิเคราะห์ Stage, Application Owner และระยะเวลารีวิวเอกสาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
